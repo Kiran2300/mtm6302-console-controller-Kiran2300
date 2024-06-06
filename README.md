@@ -1,7 +1,7 @@
 # mtm6302-console-controller-Kiran2300
 <h>Full Name: Kirandeep Kaur  <br>
 Student ID: 041113119 </h>
-go to setting and add collabrator
+Step 1: go to setting and add collabrator
 ![image](https://github.com/Kiran2300/mtm6302-console-controller-Kiran2300/assets/134239892/0f361b78-7ce7-41eb-baa1-e83434918718) <br>
 step 2: Go to your git bash: and enter command git clone
 https://github.com/Kiran2300/mtm6302-console-controller-Kiran2300.git
